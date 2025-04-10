@@ -47,7 +47,7 @@ const HeroSection = () => {
             <div className="relative w-80 h-96 md:w-96 md:h-[30rem] perspective">
               <div className="absolute inset-0 hero-glow rounded-full opacity-30 animate-pulse-glow" />
               <img 
-                src="/uploads/floating-bg-removed.png" 
+                src="/uploads/new-homelogo-3.png" 
                 alt="Sung Jin-Woo" 
                 className="object-contain h-full w-full z-10 relative purple-shadow animate-float"
                 style={{
