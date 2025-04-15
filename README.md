@@ -31,9 +31,15 @@ Whether you're a long-time fan or a curious visitor, this site offers a visual j
 
 ## 📸 Screenshots
 
-> *(Will upload the screenshots here soon!!)*
 
----
+<div align="center"> 
+  <img src="https://github.com/user-attachments/assets/6dde20b9-4598-40c4-b589-3de65e12c58f" width="280" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/a49d1669-1fcf-463f-b688-c59ad5230db4" width="600" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/74ccb120-5cc1-4f34-99e4-0b0e7b34f838" width="350" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/33583e84-ecfe-4e26-8a76-9a50f80d0897" width="350" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/00edd416-8326-4004-a042-23c33f005030" width="350" style="border-radius: 10px; margin: 10px;" /> 
+</div>
+
 
 ## ✨ Live Demo
 
