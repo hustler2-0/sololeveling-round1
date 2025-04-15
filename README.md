@@ -46,15 +46,45 @@ Whether you're a long-time fan or a curious visitor, this site offers a visual j
 👉 [Click here to view the live project](https://sololeveling-hustlers.vercel.app)  
 
 ---
+## 🚀 Setup Instructions
+
+> Ensure you have **Node.js** and **npm** installed.
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/hustler2-0/sololeveling-round1.git
+   ```
+
+2. Navigate into the project folder:
+
+   ```bash
+   cd sololeveling-round1
+   ```
+
+3. Install the dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+5. Open [http://localhost:5173](http://localhost:5173) in your browser to view the application.
+
 
 ## 👥 Team Hustlers
 
-- **Shubhashish Chakraborty** 👉 [linkedin](https://www.linkedin.com/in/Shubhashish-Chakraborty)
-- **Nihal Yadav** 👉 [linkedin](https://www.linkedin.com/in/nihal-yadav2/)
-- **Moksh Mishra** 👉 [linkedin](https://www.linkedin.com/in/moksh-mishra-956868289)
-- **Akshat Singh Tomar** 👉 [linkedin](https://www.linkedin.com/in/akshat-singh-tomar-4307772a0)
-- **Mayank Agrawal** 👉 [linkedin](https://www.linkedin.com/in/mayank-agrawal155)
-
+| Member | LinkedIn |
+|--------|----------|
+| **Shubhashish Chakraborty** | [🔗 Link](https://www.linkedin.com/in/Shubhashish-Chakraborty) |
+| **Nihal Yadav** | [🔗 Link](https://www.linkedin.com/in/nihal-yadav2/) |
+| **Moksh Mishra** | [🔗 Link](https://www.linkedin.com/in/moksh-mishra-956868289) |
+| **Akshat Singh Tomar** | [🔗 Link](https://www.linkedin.com/in/akshat-singh-tomar-4307772a0) |
+| **Mayank Agrawal** | [🔗 Link](https://www.linkedin.com/in/mayank-agrawal155) |
 ---
 
 ## 🖤 Inspired By
